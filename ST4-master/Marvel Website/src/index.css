@@ -1,0 +1,72 @@
+.bodyTo {
+  margin: 0;
+  background-image: url(https://www.deccanherald.com/sites/dh/files/article_images/2019/05/05/file757shydjfptrbs8yhil-1557079206.jpg);
+  width: 70%;
+  margin-left: 30%;
+  position: absolute;
+  font-family:cursive;
+  text-align: center;
+  height: max-content;
+  
+  
+}
+.logo{
+  position: absolute;
+  
+
+}
+h1{
+  font-weight: bolder;
+  font-size: 80px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.bookspace{
+  width: 90%;
+  height :max-content;
+  display: flex;
+  
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.aboutspace{
+  width: 90%;
+  height :92vh;
+  display: flex;
+
+  margin: auto;
+  flex-wrap: wrap;
+  
+}
+
+.card{
+  margin: 8px;
+  padding: 10px;
+
+}
+.base{
+  width: 400px;
+  height: 50px;
+  display: flex;
+
+  font-size: 20px;
+  margin: 5px;
+  padding: 4px;
+  transition: all 0.99s ease-out;
+  border-radius: 10px ;
+}
+.base span{
+  text-decoration:none;
+  text-align: center;
+  color: black;
+}
+
+ 
+.image{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+
+}
